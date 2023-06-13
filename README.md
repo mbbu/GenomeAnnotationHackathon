@@ -1,1 +1,2 @@
-# GenomeAnnotationHackathon
+# Genome Annotation Hackathon
+
