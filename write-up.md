@@ -1,14 +1,14 @@
 ## Genome Families
 
-* Insect Resistance genes or Immune system genes.
+1. Insect Resistance genes or Immune system genes.
 
-* Reproductive genetics and Developmental gene families. 
+2. Reproductive genetics and Developmental gene families. 
 
-* Vision associated gene families.
+3. Vision associated gene families.
 
-* Repetitive elements.
+4. Repetitive elements.
 
-* Detoxification and metabolism genes.
+5. Detoxification and metabolism genes.
 
 ## Guidelines
 
