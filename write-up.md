@@ -2,7 +2,7 @@
 
 * Insect Resistance genes or Immune system genes.
 
-* Reproductive geenetics and Developmental gene families. 
+* Reproductive genetics and Developmental gene families. 
 
 * Vision associated gene families.
 
@@ -14,7 +14,7 @@
 
 **Based on the identified gene family above;** 
 
-Describe the function of the family
+Describe the function of the family.
 
 Identify the gene families present in the Hippoboscas.
 
