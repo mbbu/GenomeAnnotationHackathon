@@ -10,6 +10,13 @@
 
 5. Detoxification and metabolism genes; [docs](https://docs.google.com/document/d/1lgacWPjFEO4ux8YGteDmwEUDA8vQ4iCCeFL2e-M99u0/edit?usp=sharing).
 
+**References**
+
+1. https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-023-09155-1
+
+2. https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1768-2
+
+
 ## Guidelines
 
 **Based on the identified gene family above;** 
