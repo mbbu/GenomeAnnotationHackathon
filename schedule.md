@@ -6,7 +6,6 @@ Time: 9 AM to 5 PM
 
 **Venue:** ICIPE
 
-**Hashtag:** 
 
 ## Day 1 (June 21, 9:00AM - 5:00PM)
 
@@ -23,12 +22,11 @@ Time: 9 AM to 5 PM
   - How to create a roadmap
 * How to use GitHub for collaboration: [GitHub Flow](https://guides.github.com/introduction/flow/)
 * Expected outcomes
-* Overview of Stomoxys and Hipoposca (Why is it important)
-* Introduction to the HPC and other Resources
+* Introduction to available Resources
 
-### 10:00AM: Introducing Genome Assembly and Annotation (Kebaso, Parcelli, Sam, Violet)
+### 10:00 AM: Introducing Genome Assembly and Annotation (Kebaso, Parcelli, Sam, Violet)
 * 
-### 10:30:00AM - 11:00AM
+### 10:30:00AM - 11:00 AM
 * Tea Break
 
 ### 11:00 - 1:00 PM: Break into teams and begin working (Team Leaders)
@@ -51,7 +49,7 @@ Time: 9 AM to 5 PM
 * Daily summary by teams and wrap-up
 * Requirements review: what would improve the process the next day?
 
-### 5:00PM - 5:30PM
+### 5:00PM
 * Break for the day
 
 
