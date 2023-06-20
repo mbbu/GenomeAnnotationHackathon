@@ -1,14 +1,14 @@
 ## Genome Families
 
-1. Insect Resistance genes or Immune system genes.
+1. Insect Resistance genes or Immune system genes; [docs](https://docs.google.com/document/d/1GIOjZ4dExAvTvxDsLSs4aqz4ax7AAKYQg_aZ1VNvgOM/edit?usp=sharing).
 
-2. Reproductive genetics and Developmental gene families. 
+2. Reproductive genetics and Developmental gene families; [docs](https://docs.google.com/document/d/1zsmjL4Bfx7D4TB61_8JpkDRizeVoFDjaBIfx0WjYYWA/edit?usp=sharing). 
 
-3. Vision associated gene families.
+3. Vision associated gene families; [docs](https://docs.google.com/document/d/1QWInj0DvAQGOPDH9zqQld6g5DbUI5aSdN5qBucjBIw4/edit?usp=sharing).
 
-4. Repetitive elements.
+4. Repetitive elements; [docs](https://docs.google.com/document/d/1Slf_13g1VJ2JsceaZeFlxKaYqvvFomNb0qV0b-smLoU/edit?usp=sharing).
 
-5. Detoxification and metabolism genes.
+5. Detoxification and metabolism genes; [docs](https://docs.google.com/document/d/1lgacWPjFEO4ux8YGteDmwEUDA8vQ4iCCeFL2e-M99u0/edit?usp=sharing).
 
 ## Guidelines
 
