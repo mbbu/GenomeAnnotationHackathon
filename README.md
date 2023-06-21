@@ -2,6 +2,9 @@
 
 We are delighted to invite you to a thrilling and knowledge-packed event, the Genome Annotation Hackathon, at the International Centre of Insect Physiology and Ecology (icipe). This three-day hackathon will focus on understanding the gene family composition of two fascinating species: Hippobosca and Stomoxys.
 
+
+**Join Slack:**  https://join.slack.com/t/mbbu-icipe/shared_invite/zt-1xki472iu-hWf55XCrTvN9clSilMzhQQ 
+
 **Event Details:** Genome Annotation of Hippobosca and Stomoxys
 
 **Date:** 21st to 23rd June 2023 
