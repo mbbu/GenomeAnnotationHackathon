@@ -9,27 +9,27 @@ Time: 9 AM to 5 PM
 
 ## Day 1 (June 21, 9:00AM - 5:00PM)
 
-### 9:00AM - 9:30AM: Welcome ( )
+### 9:00AM - 9:30AM: Getting setup
 * Registration
-* Welcome
-* Introductions
 * set-up
-* Forming teams
+* 
 
-### 9:30AM - 10:00AM: Presentations (Caleb/Dr Masiga)
+
+### 9:30AM - 9:45AM: Welcome (Caleb/Dr Masiga/Dr Jandouwe)
 * What is a hackathon
   - How to make the best of the hackathon days
-  - How to create a roadmap
-* How to use GitHub for collaboration: [GitHub Flow](https://guides.github.com/introduction/flow/)
 * Expected outcomes
-* Introduction to available Resources
+* Introduction to Available Resources [Cynthia]
 
-### 10:00 AM: Introducing Genome Assembly and Annotation (Kebaso, Parcelli, Sam, Violet)
-* 
+### 9:45 AM - 10:30 AM: Introducing Genome Assembly and Annotation (Kebaso, Parcelli, Sam, Violet)
+
 ### 10:30:00AM - 11:00 AM
 * Tea Break
 
-### 11:00 - 1:00 PM: Break into teams and begin working (Team Leaders)
+### 11:00 - 11:45 PM: Demo [ Fredrick Kebaso)
+
+
+### 11:00 - 11:45 PM: Forming Teams and developing a strategy [ Fredrick Kebaso)
 * Develop a roadmap and strategy
 * Define the scope
 * Gather required resources
